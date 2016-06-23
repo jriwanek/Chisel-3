@@ -1,3 +1,5 @@
+Note: This fork exists *soley* incase TheCricket pulls the code again, I have no interest in the politics, and therefore refuse to take sides, this is for archival purposes only
+
 Chisel 3
 =======
 Chisel is a mod for Minecraft which adds aesthetic blocks to the game through the use of a chisel.  
